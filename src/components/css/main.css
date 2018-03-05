@@ -1,0 +1,10 @@
+main{
+    padding: 20px;
+}
+.biography{
+    width:70%;
+    display: inline-block;
+   font-size: 14px;
+   line-height: 1.6;
+   text-align : justify;
+  }
